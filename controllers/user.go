@@ -1,5 +1,5 @@
 package controllers
-//go mod init golang
+
 import (
   "fmt"
   "time"
